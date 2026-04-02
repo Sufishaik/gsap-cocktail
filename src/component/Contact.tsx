@@ -59,15 +59,17 @@ const Contact = () => {
         <h2>Where to Find Us</h2>
         <div>
           <h3>Visit Our Bar</h3>
-          <p>123 New Street, Birmingham, B2 1AA</p>
+          <p>Pune, Maharashtra India</p>
         </div>
         <div>
           <h3>Contact Us</h3>
           <p>
-            <a href="tel:+44123456789">+44 123 456 789</a>
+            <a href="tel:+44123456789">+917820924353</a>
           </p>
           <p>
-            <a href="mailto:hello@velvetpour.com">hello@velvetpour.com</a>
+            <a href="mailto:shaikhsufiyan174@gmail.com">
+              shaikhsufiyan174@gmail.com
+            </a>
           </p>
         </div>
         <div>

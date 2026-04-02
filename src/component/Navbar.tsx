@@ -1,7 +1,7 @@
 import gsap from "gsap";
 import { navLinks } from "../constant";
 import { useGSAP } from "@gsap/react";
-
+import LOGO from "../../public/images/logo (2).png";
 const Navbar = () => {
   useGSAP(() => {
     const navTween = gsap.timeline({
@@ -28,7 +28,7 @@ const Navbar = () => {
     <nav id="navbar">
       <div>
         <a href="#home" className="flex items-center gap-2">
-          <img src="/images/logo.png" alt="Purple cocktail glass logo" />
+          <img src={LOGO} alt="Purple cocktail glass logo" />
           <p>Velvet Pour</p>
         </a>
         <ul>
